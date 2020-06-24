@@ -1,12 +1,15 @@
-# IDM Kemendesa
+#### IDM Kemendesa ####
 
 
 Beberapa Config server IDM Kemendesa --> http://idm.kemendesa.go.id/
 
-# MariaDB :
+## MariaDB :
   /etc/mysql/my.cnf
   
-# NginX :
-  /etc/nginx/nginx.conf
-  /etc/nginx/conf.d/idm.kemendesa.go.id.conf
+## NginX :
+#->  /etc/nginx/nginx.conf
+#->  /etc/nginx/conf.d/idm.kemendesa.go.id.conf
+  
+## FSTab
+#->  /etc/fstab
   
